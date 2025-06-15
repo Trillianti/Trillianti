@@ -17,20 +17,9 @@
 
 <br>
 
-<div align="center">
-  <a href="dimshat1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/dmytro-shatokhin-735b9a347/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-<!--   <a href="https://medium.com/@chijiokeokorji" target="_blank"> -->
-<!--     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /> -->
-<!--   </a> -->
-<!--   <a href="https://codepen.io/chijiokeokorji" target="_blank"> -->
-<!--     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" /> -->
-<!--   </a> -->
-</div>
+## Contacts ✉️
+- Mail: dimshat1@gmail.com
+- Linkedin: [Dmytro Shatokhin](https://www.linkedin.com/in/dmytro-shatokhin-735b9a347/)
 
 <hr>
 
