@@ -20,6 +20,7 @@
 ## Contacts ✉️
 - Mail: dimshat1@gmail.com
 - Linkedin: [Dmytro Shatokhin](https://www.linkedin.com/in/dmytro-shatokhin-735b9a347/)
+- My website: [Dmytro Shatokhin](https://dmytro.shatokhin.xyz/)
 
 <hr>
 
